@@ -9,4 +9,4 @@ reverse = ""
 for letter in phrase:
 	reverse = letter + reverse
 
-print(reverse)
+print(upper(reverse))
