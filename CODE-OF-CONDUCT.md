@@ -7,10 +7,10 @@ matter of computer science knowledge
 
 Examples of behavior that contributes to a positive environment for our community include:
 
-*Making code effective and fair
-*Establishing code that is original
-*Not discriminating in who can access the code
-*Crediting any who help us with our code
+* Making code effective and fair
+Establishing code that is original
+Not discriminating in who can access the code
+Crediting any who help us with our code
 
 # Examples of unacceptable behavior include:
 
