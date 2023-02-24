@@ -12,7 +12,7 @@ Examples of behavior that contributes to a positive environment for our communit
 * Not discriminating in who can access the code
 * Crediting any who help us with our code
 
-# Examples of unacceptable behavior include:
+Examples of unacceptable behavior include:
 
 * Keeping source code hidden to anyone for any reason
 * Plagiarism
